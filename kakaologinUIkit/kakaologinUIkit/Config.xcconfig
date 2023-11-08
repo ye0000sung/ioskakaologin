@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  kakaologinUIkit
+//
+//  Created by 윤예성 on 2023/11/08.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = 5b45f308401d7048a99a49d20bf5533f
